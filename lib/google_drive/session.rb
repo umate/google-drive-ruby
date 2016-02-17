@@ -8,7 +8,7 @@ require "rubygems"
 require "nokogiri"
 require "oauth"
 require "oauth2"
-require "google/api_client"
+require "google/api_client/auth/installed_app"
 
 require "google_drive/util"
 require "google_drive/api_client_fetcher"

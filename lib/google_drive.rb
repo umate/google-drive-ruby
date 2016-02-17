@@ -2,7 +2,7 @@
 # The license of this source is "New BSD Licence"
 
 require 'json'
-require 'google/api_client'
+require 'google/api_client/auth/installed_app'
 
 require 'google_drive/session'
 
